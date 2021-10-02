@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Meu segundo git -> https://github.com/hidoshino . ainda vou atualizar este aquiii.
+
 <!--
 **FilipePaiva10/FIlipePaiva10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
