@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Meu segundo git -> https://github.com/hidoshino . ainda vou atualizar este aquiii.
+I'm react and react-native developer, passionate about new technologies and have experience with JavaScript, Typescript, NodeJS, ReactJS, and React Native, C#, Angular CLI. I am also a student at B7Web where I learn practically the most diverse types of projects.
+
+- 👨‍💻 I’m currently working on Clinica de oncologia e mastologia de natal.
+- 🙅‍♂️ I have experience with Typescript, Node.js, ReactJS, and React Native.
+- 👉 See my LinkedIn: [Filipe Paiva](www.linkedin.com/in/filipepaiva10)
 
 <!--
 **FilipePaiva10/FIlipePaiva10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
