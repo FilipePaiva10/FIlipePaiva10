@@ -1,3 +1,8 @@
+
+<div style="align-items: center; display: flex; justify-content: center;">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEXNxSda8XouQ/profile-displaybackgroundimage-shrink_200_800/0/1632946868981?e=1639008000&v=beta&t=kXc3X7pwoP3HEkjz2WDZkhdvzTD1G5AckA3_1ruz3uk" >
+</div>
+
 ### Hi there 👋
 
 I'm react and react-native developer, passionate about new technologies and have experience with JavaScript, Typescript, NodeJS, ReactJS, and React Native, C#, Angular CLI. I'm also a student at B7Web where I learn practically the most diverse types of projects.
