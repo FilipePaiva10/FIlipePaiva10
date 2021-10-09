@@ -15,7 +15,7 @@ I'm react and react-native developer, passionate about new technologies and have
 
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.linkedin.com/in/filipepaiva10">
-    <img src="https://github.com/FilipePaiva10/FIlipePaiva10/blob/main/github/likedin.jpg?raw=true" alt="LinkedIn" height="50">
+    <img src="https://github.com/FilipePaiva10/FIlipePaiva10/blob/main/github/likedin.png?raw=true" alt="LinkedIn" height="50">
   </a>
 </div>
 
