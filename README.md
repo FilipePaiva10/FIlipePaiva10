@@ -13,8 +13,14 @@ I'm react and react-native developer, passionate about new technologies and have
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaiva10&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
+  <a href="https://www.linkedin.com/in/filipepaiva10">
+    <img src="https://github.com/Filipepaiva10/Filipepaiva10/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
+  </a>
 </div>
+
 </div>
+
 
 <!--
 **FilipePaiva10/FIlipePaiva10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
