@@ -6,8 +6,6 @@
 ### Hi there 👋
 
 I'm react and react-native developer, passionate about new technologies and have experience with JavaScript, Typescript, NodeJS, ReactJS, and React Native, C#, Angular CLI. I'm also a student at B7Web where I learn practically the most diverse types of projects.
-
-- 👨‍💻 I’m currently working on Clinica de oncologia e mastologia de natal.
 - 🙅‍♂️ I have experience with Typescript, Node.js, ReactJS, and React Native.
 - 🌱 I’m currently learning Electron
 - 👉 See my LinkedIn: [Filipe Paiva](https://www.linkedin.com/in/filipepaiva10)
