@@ -1,7 +1,4 @@
 
-<div style="align-items: center; display: flex; justify-content: center;">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEXNxSda8XouQ/profile-displaybackgroundimage-shrink_200_800/0/1632946868981?e=1639008000&v=beta&t=kXc3X7pwoP3HEkjz2WDZkhdvzTD1G5AckA3_1ruz3uk" >
-</div>
 
 ### Hi there 👋
 
